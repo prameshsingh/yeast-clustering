@@ -1,0 +1,9 @@
+[submodule "mutual-information-relatedness"]
+	path = mutual-information-relatedness
+	url = https://github.com/prameshsingh/mutual-information-relatedness
+[submodule "excess-modularity-density"]
+	path = excess-modularity-density
+	url = https://github.com/prameshsingh/excess-modularity-density
+[submodule "generalized-modularity-density"]
+	path = generalized-modularity-density
+	url = https://github.com/prameshsingh/generalized-modularity-density
