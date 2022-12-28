@@ -34,7 +34,7 @@ To detect communities in the inferred gene co-expression networks, we use the fo
 For MCL, we use `r` package `mcl()`. See https://cran.r-project.org/web/packages/MCL/index.html for more info.
 
 - Modularity (Q) and Generalize Modularity Density (Qg):
-To find communities using **Q** or **Qg**, use an implementation of the RenEEL algorithm from the submodule `generalized-modularity-density`. **Q** is a special case of **Qg** when the exponent \chi is 0. `See README.md` in `generalized-modularity-density` for more info. 
+To find communities using *Q* or *Qg*, use an implementation of the RenEEL algorithm from the submodule `generalized-modularity-density`. *Q* is a special case of *Qg* when the exponent \chi is 0. `See README.md` in `generalized-modularity-density` for more info. 
 
 - Excess Modularity Density (Qx): 
 For community detection by maximizing Qx, use the submodule `excess-modularity-density`. 
