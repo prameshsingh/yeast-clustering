@@ -49,3 +49,11 @@ Required libraries:
 - `igraph`
 - `ggplot2` (if plotting).
 
+**GO term enrichment** 
+- GO term enrichment of gene clusters is perfomed by using the Hypergeometric test. We use *Ontologizer* for this purpose (http://ontologizer.de/).
+
+Bauer, Sebastian, et al. "Ontologizer 2.0—a multifunctional tool for GO term enrichment analysis and data exploration." Bioinformatics 24.14 (2008): 1650-1651.
+
+- The GO term associations are obtained from https://www.yeastgenome.org/ 
+
+Dwight, Selina S., et al. "Saccharomyces Genome Database (SGD) provides secondary gene annotation using the Gene Ontology (GO)." Nucleic acids research 30.1 (2002): 69-72.
